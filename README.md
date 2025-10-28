@@ -24,7 +24,7 @@
 
 <hr>
 
-![abstract-image.png](abstract-image.png)
+![abstract-figures/abstract-figure.png](abstract-figures/abstract-figure.png)
 
 
 ### Abstract
